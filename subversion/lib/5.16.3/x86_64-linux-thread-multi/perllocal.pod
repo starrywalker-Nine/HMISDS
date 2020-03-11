@@ -1,0 +1,22 @@
+=head2 Mon Feb  3 18:55:17 2020: C<Module> L<SVN::_Core|SVN::_Core>
+
+=over 4
+
+=item *
+
+C<installed into: /bitnami/ruby25stack-linux-x64/output/subversion/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: >
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

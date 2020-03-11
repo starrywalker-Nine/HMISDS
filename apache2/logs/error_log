@@ -1,0 +1,307 @@
+[Thu Feb 20 01:17:03.151993 2020] [ssl:warn] [pid 1617:tid 140268183282368] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-02-20 01:17:03.1898 1619/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-02-20 01:17:03.2090 1622/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-02-20 01:17:03.2093 1622/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 01:17:03.2180 1622/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1622
+
+[ N 2020-02-20 01:17:03.2264 1622/T6 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 01:17:03.2265 1622/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 01:17:03.2265 1622/T6 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 01:17:03.2265 1622/T6 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 01:17:03.2265 1622/T8 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 01:17:03.2265 1622/T8 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[Thu Feb 20 01:17:03.242179 2020] [ssl:warn] [pid 1636:tid 140268183282368] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-02-20 01:17:03.2612 1622/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[ N 2020-02-20 01:17:03.2642 1640/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-02-20 01:17:03.2802 1647/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-02-20 01:17:03.2803 1647/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 01:17:03.2876 1647/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1647
+[Thu Feb 20 01:17:03.289954 2020] [mpm_event:notice] [pid 1636:tid 140268183282368] AH00489: Apache/2.4.41 (Unix) OpenSSL/1.1.1d SVN/1.13.0 Phusion_Passenger/5.3.7 configured -- resuming normal operations
+[Thu Feb 20 01:17:03.289984 2020] [core:notice] [pid 1636:tid 140268183282368] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf'
+[ E 2020-02-20 01:17:05.6795 1647/T6 age/Cor/SecurityUpdateChecker.h:507 ]: Security update check failed: Problem with the SSL CA cert (path? access rights?) while connecting to https://securitycheck.phusionpassenger.com/v1/check.json ; this might happen if the nss backend is installed for libcurl instead of GnuTLS or OpenSSL. If the problem persists, you can also try upgrading or reinstalling Phusion Passenger (next check in 24 hours)
+App 2075 output: sh: 1: 
+App 2075 output: hg: not found
+App 2075 output: 
+App 2075 output: sh: 1: 
+App 2075 output: bzr: not found
+App 2075 output: 
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 2075 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+[Thu Feb 20 02:21:34.974433 2020] [mpm_event:notice] [pid 1636:tid 140268183282368] AH00491: caught SIGTERM, shutting down
+
+[ N 2020-02-20 02:21:35.0252 1647/T7 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 02:21:35.0253 1647/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 02:21:35.0254 1647/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 2075, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-02-20 02:21:35.0259 1647/Ta Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 02:21:35.0260 1647/Ta Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2020-02-20 02:21:35.0261 1647/T7 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 02:21:35.0262 1647/T7 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 02:21:35.0265 1647/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 2075, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-02-20 02:21:35.2616 1647/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[Thu Feb 20 02:22:24.191978 2020] [ssl:warn] [pid 1061:tid 140069756826304] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-02-20 02:22:24.2568 1063/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-02-20 02:22:24.2880 1066/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-02-20 02:22:24.2882 1066/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 02:22:24.2996 1066/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1066
+
+[ N 2020-02-20 02:22:24.3078 1066/T6 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 02:22:24.3079 1066/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 02:22:24.3079 1066/T6 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 02:22:24.3079 1066/T6 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 02:22:24.3136 1066/T8 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 02:22:24.3137 1066/T8 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[Thu Feb 20 02:22:24.326161 2020] [ssl:warn] [pid 1080:tid 140069756826304] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-02-20 02:22:24.3527 1066/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[ N 2020-02-20 02:22:24.3666 1086/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-02-20 02:22:24.3938 1101/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-02-20 02:22:24.3939 1101/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 02:22:24.3984 1101/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1101
+[Thu Feb 20 02:22:24.400401 2020] [mpm_event:notice] [pid 1080:tid 140069756826304] AH00489: Apache/2.4.41 (Unix) OpenSSL/1.1.1d SVN/1.13.0 Phusion_Passenger/5.3.7 configured -- resuming normal operations
+[Thu Feb 20 02:22:24.400430 2020] [core:notice] [pid 1080:tid 140069756826304] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf'
+[ E 2020-02-20 02:22:26.6894 1101/Ta age/Cor/SecurityUpdateChecker.h:507 ]: Security update check failed: Problem with the SSL CA cert (path? access rights?) while connecting to https://securitycheck.phusionpassenger.com/v1/check.json ; this might happen if the nss backend is installed for libcurl instead of GnuTLS or OpenSSL. If the problem persists, you can also try upgrading or reinstalling Phusion Passenger (next check in 24 hours)
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS\.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS\.git'
+App 1401 output: fatal: not a git repository: 'D:\GitStorage\HMISDS\.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: 'https://github.com/starrywalker-Nine/HMISDS.git'
+App 1401 output: fatal: not a git repository: '/home/bitnami/HMISDS/'
+App 1401 output: fatal: not a git repository: '/home/bitnami/HMISDS/'
+App 1401 output: fatal: not a git repository: '/home/bitnami/HMISDS/'
+App 1401 output: fatal: not a git repository: '/home/bitnami/HMISDS/'
+App 1401 output: fatal: not a git repository: '/home/bitnami/HMISDS/'
+[ N 2020-02-20 04:58:41.3631 1101/T3 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 5924, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[Thu Feb 20 08:08:46.224614 2020] [mpm_event:notice] [pid 1080:tid 140069756826304] AH00491: caught SIGTERM, shutting down
+
+[ N 2020-02-20 08:08:46.2506 1101/T5 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 08:08:46.2506 1101/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 08:08:46.2507 1101/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 1401, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-02-20 08:08:46.2509 1101/T7 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 08:08:46.2509 1101/T7 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2020-02-20 08:08:46.2510 1101/T5 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 08:08:46.2510 1101/T5 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 08:08:46.2512 1101/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 1401, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-02-20 08:08:46.4775 1101/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[Fri Mar 06 05:15:13.477530 2020] [ssl:warn] [pid 1162:tid 140534061793984] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-06 05:15:13.5129 1164/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-06 05:15:13.5344 1167/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-06 05:15:13.5346 1167/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-06 05:15:13.5427 1167/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1167
+
+[ N 2020-03-06 05:15:13.5506 1167/T6 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-03-06 05:15:13.5506 1167/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-03-06 05:15:13.5507 1167/T6 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-03-06 05:15:13.5507 1167/T6 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-03-06 05:15:13.5507 1167/T8 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-03-06 05:15:13.5507 1167/T8 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[Fri Mar 06 05:15:13.565292 2020] [ssl:warn] [pid 1181:tid 140534061793984] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-06 05:15:13.5854 1184/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-06 05:15:13.5984 1167/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[ N 2020-03-06 05:15:13.6089 1192/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-06 05:15:13.6090 1192/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-06 05:15:13.6138 1192/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1192
+[Fri Mar 06 05:15:13.615923 2020] [mpm_event:notice] [pid 1181:tid 140534061793984] AH00489: Apache/2.4.41 (Unix) OpenSSL/1.1.1d SVN/1.13.0 Phusion_Passenger/5.3.7 configured -- resuming normal operations
+[Fri Mar 06 05:15:13.615950 2020] [core:notice] [pid 1181:tid 140534061793984] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf'
+[ E 2020-03-06 05:15:15.9532 1192/T5 age/Cor/SecurityUpdateChecker.h:507 ]: Security update check failed: Problem with the SSL CA cert (path? access rights?) while connecting to https://securitycheck.phusionpassenger.com/v1/check.json ; this might happen if the nss backend is installed for libcurl instead of GnuTLS or OpenSSL. If the problem persists, you can also try upgrading or reinstalling Phusion Passenger (next check in 24 hours)
+App 1502 output: sh: 1: 
+App 1502 output: hg: not found
+App 1502 output: 
+App 1502 output: sh: 1: 
+App 1502 output: bzr: not found
+App 1502 output: 
+[ N 2020-03-06 05:20:22.3239 1192/T3 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 1522, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[Fri Mar 06 06:07:25.325056 2020] [mpm_event:notice] [pid 1181:tid 140534061793984] AH00491: caught SIGTERM, shutting down
+
+[ N 2020-03-06 06:07:25.3508 1192/T8 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-03-06 06:07:25.3508 1192/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-03-06 06:07:25.3509 1192/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 1502, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-03-06 06:07:25.3511 1192/Ta Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-03-06 06:07:25.3511 1192/Ta Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2020-03-06 06:07:25.3511 1192/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-03-06 06:07:25.3512 1192/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-03-06 06:07:25.3514 1192/T1 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 1502, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[ N 2020-03-06 06:07:25.5770 1192/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[Fri Mar 06 06:08:37.557147 2020] [ssl:warn] [pid 1074:tid 139945654678208] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-06 06:08:37.5969 1076/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-06 06:08:37.6152 1079/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-06 06:08:37.6153 1079/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-06 06:08:37.6220 1079/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1079
+
+[ N 2020-03-06 06:08:37.6304 1079/T6 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-03-06 06:08:37.6305 1079/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-03-06 06:08:37.6305 1079/T6 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-03-06 06:08:37.6305 1079/T6 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-03-06 06:08:37.6305 1079/T8 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-03-06 06:08:37.6305 1079/T8 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[Fri Mar 06 06:08:37.645058 2020] [ssl:warn] [pid 1093:tid 139945654678208] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-06 06:08:37.6636 1079/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[ N 2020-03-06 06:08:37.6764 1099/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-06 06:08:37.7036 1114/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-06 06:08:37.7037 1114/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-06 06:08:37.7131 1114/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1114
+[Fri Mar 06 06:08:37.715198 2020] [mpm_event:notice] [pid 1093:tid 139945654678208] AH00489: Apache/2.4.41 (Unix) OpenSSL/1.1.1d SVN/1.13.0 Phusion_Passenger/5.3.7 configured -- resuming normal operations
+[Fri Mar 06 06:08:37.715225 2020] [core:notice] [pid 1093:tid 139945654678208] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf'
+[ E 2020-03-06 06:08:40.0467 1114/Ta age/Cor/SecurityUpdateChecker.h:507 ]: Security update check failed: Problem with the SSL CA cert (path? access rights?) while connecting to https://securitycheck.phusionpassenger.com/v1/check.json ; this might happen if the nss backend is installed for libcurl instead of GnuTLS or OpenSSL. If the problem persists, you can also try upgrading or reinstalling Phusion Passenger (next check in 24 hours)
+App 1414 output: fatal: Not a valid object name :
+[ N 2020-03-06 08:39:28.4983 1114/T3 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 5733, application /opt/bitnami/apps/redmine/htdocs/ (production)
+App 1414 output: sh: 1: 
+App 1414 output: hg: not found
+App 1414 output: 
+App 1414 output: sh: 1: 
+App 1414 output: bzr: not found
+App 1414 output: 
+[ N 2020-03-06 08:51:23.9649 1114/T3 age/Cor/CoreMain.cpp:1117 ]: Checking whether to disconnect long-running connections for process 6258, application /opt/bitnami/apps/redmine/htdocs/ (production)
+[Wed Mar 11 11:10:36.232327 2020] [ssl:warn] [pid 1167:tid 139926325531328] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-11 11:10:36.2690 1169/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-11 11:10:36.2882 1172/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-11 11:10:36.2883 1172/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-11 11:10:36.2962 1172/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1172
+
+[ N 2020-03-11 11:10:36.3031 1172/T6 age/Cor/CoreMain.cpp:641 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-03-11 11:10:36.3032 1172/T1 age/Cor/CoreMain.cpp:1216 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-03-11 11:10:36.3032 1172/T6 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-03-11 11:10:36.3032 1172/T6 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-03-11 11:10:36.3032 1172/T8 Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-03-11 11:10:36.3032 1172/T8 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[Wed Mar 11 11:10:36.317636 2020] [ssl:warn] [pid 1186:tid 139926325531328] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[ N 2020-03-11 11:10:36.3389 1172/T1 age/Cor/CoreMain.cpp:1295 ]: Passenger core shutdown finished
+[ N 2020-03-11 11:10:36.3459 1190/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2020-03-11 11:10:36.3735 1203/T1 age/Cor/CoreMain.cpp:1310 ]: Starting Passenger core...
+[ N 2020-03-11 11:10:36.3736 1203/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-03-11 11:10:36.3779 1203/T1 age/Cor/CoreMain.cpp:985 ]: Passenger core online, PID 1203
+[Wed Mar 11 11:10:36.379628 2020] [mpm_event:notice] [pid 1186:tid 139926325531328] AH00489: Apache/2.4.41 (Unix) OpenSSL/1.1.1d SVN/1.13.0 Phusion_Passenger/5.3.7 configured -- resuming normal operations
+[Wed Mar 11 11:10:36.379655 2020] [core:notice] [pid 1186:tid 139926325531328] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf'
+App 1378 output: Error: The application encountered the following error: Can't connect to local MySQL server through socket '/opt/bitnami/mysql/tmp/mysql.sock' (111) (Mysql2::Error::ConnectionError)
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.3/lib/mysql2/client.rb:90:in `connect'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/mysql2-0.5.3/lib/mysql2/client.rb:90:in `initialize'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/mysql2_adapter.rb:22:in `new'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/mysql2_adapter.rb:22:in `mysql2_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:830:in `new_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:874:in `checkout_new_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:853:in `try_to_checkout_new_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:814:in `acquire_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:538:in `checkout'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:382:in `connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:1033:in `retrieve_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_handling.rb:118:in `retrieve_connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/connection_handling.rb:90:in `connection'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/model_schema.rb:466:in `load_schema!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/attributes.rb:234:in `load_schema!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/attribute_decorators.rb:51:in `load_schema!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/model_schema.rb:459:in `block in load_schema'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/monitor.rb:235:in `mon_synchronize'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/model_schema.rb:456:in `load_schema'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/model_schema.rb:336:in `columns_hash'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/inheritance.rb:78:in `descends_from_active_record?'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/inheritance.rb:84:in `finder_needs_type_condition?'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/core.rb:287:in `relation'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.4.1/lib/active_record/scoping/default.rb:34:in `unscoped'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/user.rb:822:in `anonymous'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/user.rb:816:in `current'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/query.rb:91:in `groupable'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/query.rb:31:in `initialize'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/issue_query.rb:36:in `new'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/issue_query.rb:36:in `<class:IssueQuery>'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/app/models/issue_query.rb:20:in `<top (required)>'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:291:in `require'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:291:in `block in require'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:257:in `load_dependency'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:291:in `require'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:378:in `block in require_or_load'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:37:in `block in load_interlock'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies/interlock.rb:14:in `block in loading'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/concurrency/share_lock.rb:151:in `exclusive'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies/interlock.rb:13:in `loading'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:37:in `load_interlock'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:356:in `require_or_load'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:334:in `depend_on'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.4.1/lib/active_support/dependencies.rb:246:in `require_dependency'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:478:in `block (2 levels) in eager_load!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:477:in `each'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:477:in `block in eager_load!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:475:in `each'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:475:in `eager_load!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/engine.rb:356:in `eager_load!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/application/finisher.rb:69:in `each'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/application/finisher.rb:69:in `block in <module:Finisher>'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/initializable.rb:32:in `instance_exec'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/initializable.rb:32:in `run'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/initializable.rb:61:in `block in run_initializers'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:228:in `block in tsort_each'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:431:in `each_strongly_connected_component_from'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:349:in `block in each_strongly_connected_component'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:347:in `each'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:347:in `call'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:347:in `each_strongly
+App 1378 output: _connected_component'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:226:in `tsort_each'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/2.5.0/tsort.rb:205:in `tsort_each'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/initializable.rb:60:in `run_initializers'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/railties-5.2.4.1/lib/rails/application.rb:361:in `initialize!'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/config/environment.rb:16:in `<top (required)>'
+App 1378 output:     config.ru:3:in `require'
+App 1378 output:     config.ru:3:in `block in <main>'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/rack-2.0.8/lib/rack/builder.rb:55:in `instance_eval'
+App 1378 output:     /opt/bitnami/apps/redmine/htdocs/vendor/bundle/ruby/2.5.0/gems/rack-2.0.8/lib/rack/builder.rb:55:in `initialize'
+App 1378 output:     config.ru:1:in `new'
+App 1378 output:     config.ru:1:in `<main>'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:101:in `eval'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:101:in `preload_app'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:189:in `block in <module:App>'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/ruby_supportlib/phusion_passenger/loader_shared_helpers.rb:380:in `run_block_and_record_step_progress'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:188:in `<module:App>'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:30:in `<module:PhusionPassenger>'
+App 1378 output:     /opt/bitnami/ruby/lib/ruby/gems/2.5.0/gems/passenger-5.3.7/src/helper-scripts/rack-preloader.rb:29:in `<main>'
+[ E 2020-03-11 11:10:43.3116 1203/Tb age/Cor/App/Implementation.cpp:221 ]: Could not spawn process for application /opt/bitnami/apps/redmine/htdocs/: The application encountered the following error: Can't connect to local MySQL server through socket '/opt/bitnami/mysql/tmp/mysql.sock' (111) (Mysql2::Error::ConnectionError)
+  Error ID: 46b1076b
+  Error details saved to: /tmp/passenger-error-wPoDYO.html
+
+[ E 2020-03-11 11:10:43.3135 1203/T6 age/Cor/Con/CheckoutSession.cpp:276 ]: [Client 1-1] Cannot checkout session because a spawning error occurred. The identifier of the error is 46b1076b. Please see earlier logs for details about the error.
+[ E 2020-03-11 11:10:43.8036 1203/T8 age/Cor/SecurityUpdateChecker.h:507 ]: Security update check failed: Problem with the SSL CA cert (path? access rights?) while connecting to https://securitycheck.phusionpassenger.com/v1/check.json ; this might happen if the nss backend is installed for libcurl instead of GnuTLS or OpenSSL. If the problem persists, you can also try upgrading or reinstalling Phusion Passenger (next check in 24 hours)

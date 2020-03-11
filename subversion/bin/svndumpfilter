@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /opt/bitnami/scripts/setenv.sh
+
+exec /opt/bitnami/subversion/bin/.svndumpfilter.bin  "$@"
